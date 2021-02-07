@@ -1,2 +1,6 @@
-HelloWorld.java
- HelloWorld
+com/nix/sandbox/TestProgram.java
+ com.nix.sandbox.TestProgram
+com/nix/sandbox/Square.java
+ com.nix.sandbox.Square
+com/nix/sandbox/Rectangle.java
+ com.nix.sandbox.Rectangle
