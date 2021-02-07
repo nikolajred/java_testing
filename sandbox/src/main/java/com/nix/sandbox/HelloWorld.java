@@ -1,3 +1,5 @@
+package com.nix.sandbox;
+
 class HelloWorld {
     public static void main(String[] args) {
 
